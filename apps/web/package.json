@@ -1,0 +1,6 @@
+{
+  "name": "web",
+  "dependencies": {
+    "@ts-61449/util": "workspace:*"
+  }
+}
